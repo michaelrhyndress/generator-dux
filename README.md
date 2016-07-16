@@ -1,4 +1,4 @@
-# generator-dux [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-dux [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > React-Redux component scaffold
 
 ## Installation
@@ -27,11 +27,11 @@ yo dux
 
 Apache-2.0 © [Michael Rhyndress]()
 
+# generator-dux
+Redux component structure with a resemblance to the[Ducks][ducks-url] structure.
 
 [npm-image]: https://badge.fury.io/js/generator-dux.svg
 [npm-url]: https://npmjs.org/package/generator-dux
-[travis-image]: https://travis-ci.org/michaelrhyndress/generator-dux.svg?branch=master
-[travis-url]: https://travis-ci.org/michaelrhyndress/generator-dux
 [daviddm-image]: https://david-dm.org/michaelrhyndress/generator-dux.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/michaelrhyndress/generator-dux
-# generator-dux
+[ducks-url]: https://github.com/erikras/ducks-modular-redux
