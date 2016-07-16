@@ -28,7 +28,8 @@ yo dux
 Apache-2.0 © [Michael Rhyndress]()
 
 # generator-dux
-Redux component structure with a resemblance to the[Ducks][ducks-url] structure.
+Redux component structure with a resemblance to the [Ducks][ducks-url] structure.
+This generator also assumes you have a rootReducer and a store already set up, as well as the ability to use es6.
 
 [npm-image]: https://badge.fury.io/js/generator-dux.svg
 [npm-url]: https://npmjs.org/package/generator-dux
